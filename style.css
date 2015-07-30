@@ -1,0 +1,67 @@
+
+li {
+    list-style: none;
+    border: 1px solid;
+    width: 67.2px;
+    height: 300px;
+    float: left;
+}
+
+.black {
+    height: 200px;
+    width: 45px;
+    background: #000;
+    position: absolute;
+}
+
+.black[data-index="1"] {
+    margin-left: 45px;
+}
+
+.black[data-index="3"] {
+    margin-left: 115px;
+}
+
+.black[data-index="5"] {
+    margin-left: 185px;
+}
+
+.black[data-index="8"] {
+    margin-left: 325px;
+}
+
+.black[data-index="10"] {
+    margin-left: 395px;
+}
+
+.black[data-index="13"] {
+    margin-left: 535px;
+}
+
+.black[data-index="15"] {
+    margin-left: 605px;
+}
+
+.black[data-index="17"] {
+    margin-left: 675px;
+}
+
+.black[data-index="20"] {
+    margin-left: 815px;
+}
+
+.black[data-index="22"] {
+    margin-left: 885px;
+}
+
+.black[data-index="25"] {
+    margin-left: 1015px;
+}
+
+.black[data-index="27"] {
+    margin-left: 1085px;
+}
+
+.black[data-index="29"] {
+    margin-left: 1155px;
+}
